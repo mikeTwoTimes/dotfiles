@@ -1,7 +1,6 @@
 " Require vim 7.4 or higher
 
 syntax on
-colorscheme habamax
 
 set number
 set relativenumber
